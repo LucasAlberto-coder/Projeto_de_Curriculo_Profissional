@@ -1,2 +1,3 @@
-# Projeto_de_Curriculo_Profissional
-Um currículo profissional pronto para ser preenchido
+# Projeto de Currículo Profissional
+## Para esse projeto, usaremos um programador famoso.
+Esse será um currículo profissional fictício que veio em um formato pronto para ser preenchido.
